@@ -9,5 +9,5 @@ Quiero centrarme en:
     * numpy
     * Otros paquetes y funciones interesantes
 
-Iré ñadiendo más ...
+Iré añadiendo más ...
     
