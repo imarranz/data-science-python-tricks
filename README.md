@@ -8,4 +8,6 @@ Quiero centrarme en:
     * matplotlib
     * numpy
     * Otros paquetes y funciones interesantes
+
+Iré ñadiendo más ...
     
