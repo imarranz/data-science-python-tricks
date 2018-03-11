@@ -9,8 +9,18 @@ Quiero centrarme en:
     * pandas
     * matplotlib
     * numpy
-    * Sckit-Learn
+    * Scikit-Learn
     * Otros paquetes y funciones interesantes
 
 Todo ello enfocando siempre los resultados a _Data Science_.
+
+## pandas
+
+## matplotlib
+
+## numpy
+
+## Scikit-Learn
+
+
     
