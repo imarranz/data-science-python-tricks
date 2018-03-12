@@ -4,7 +4,7 @@ Durante muchos años, he desarrollado mi carrera profesional usando R en casi un
 
 Por esa razón he empezado a investigar y descubrir el mundo de python en _Data Science_ y aquí voy a ir dejando mis notebook de jupyter que voy realizando mientras voy probando diferentes paquetes y funciones.
 
-Quiero centrarme en:
+Quiero centrarme en los siguientes paquetes:
 
     * pandas
     * matplotlib
