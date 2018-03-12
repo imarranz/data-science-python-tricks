@@ -16,6 +16,8 @@ Todo ello enfocando siempre los resultados a _Data Science_.
 
 ## pandas
 
+Biblioteca que permite el análisis de datos a través de series y dataframes.
+
 ## matplotlib
 
 ## numpy
