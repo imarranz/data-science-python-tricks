@@ -16,13 +16,21 @@ Todo ello enfocando siempre los resultados a _Data Science_.
 
 ## pandas
 
+![](https://pandas.pydata.org/_static/pandas_logo.png)
+
 Biblioteca que permite el análisis de datos a través de series y dataframes.
 
 ## matplotlib
 
+![](https://matplotlib.org/_static/logo2.png)
+
 ## numpy
 
+![](https://i1.wp.com/www.everythingai.co.in/wp-content/uploads/2018/03/285.jpg?resize=760%2C430)
+
 ## Scikit-Learn
+
+![](https://sthua.edu.sg/wp-content/uploads/2018/03/scikit-learn-logo.png)
 
 ## Others
 
