@@ -25,10 +25,8 @@ Biblioteca que permite el análisis de datos a través de series y dataframes.
 ![](https://matplotlib.org/_static/logo2.png)
 
 **matplotlib** es una biblioteca de trazado 2D de Python que produce figuras de alta calidad de publicación en una gran variedad de formatos impresos y entornos interactivos en todas las plataformas. **matplotlib** se puede usar en scripts Python, shells Python e IPython, Jupyter notebook y servidores de aplicaciones web.
-capturas de pantalla
-capturas de pantalla
-capturas de pantalla
-capturas de pantalla
+
+![](https://matplotlib.org/_images/sphx_glr_contour_thumb.png)
 
 **matplotlib** intenta hacer que las cosas sean fáciles. Puede generar gráficos, histogramas, espectros de potencia, gráficos de barras, diagramas de errores, diagramas de dispersión, etc., con sólo unas pocas líneas de código. Para ver [algunos ejemplos](https://matplotlib.org/tutorials/introductory/sample_plots.html) y una [galería](https://matplotlib.org/gallery/index.html).
 
