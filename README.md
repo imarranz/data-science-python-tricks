@@ -66,9 +66,9 @@ NumPy está licenciado bajo la licencia BSD, lo que permite su reutilización co
 
 ![](https://sthua.edu.sg/wp-content/uploads/2018/03/scikit-learn-logo.png)
 
+**Scikit-Learn** (anteriormente scikits.learn) es una biblioteca de aprendizaje de máquina de software libre para el lenguaje de programación de Python. **Scikit-Learn** Cuenta con varios algoritmos de clasificación, regresión y agrupación, incluyendo máquinas de vectores de soporte (SVM), _random forest_, k-means y DBSCAN, ... y está diseñado para trabajar conjuntamente con las bibliotecas numéricas y científicas de Python, NumPy y SciPy.
+
+El proyecto **Scikit-Learn** comenzó como _scikits.learn_, un proyecto _Google Summer of Code_ de David Cournapeau. Su nombre proviene de la idea de "SciKit" (-SciPy Toolkit_), una extensión de terceros desarrollada por separado y distribuida para SciPy. La base de código original fue posteriormente reescrita por otros desarrolladores. En 2010, Fabian Pedregosa, Gael Varoquaux, Alexandre Gramfort y Vincent Michel, todos de [INRIA](https://www.inria.fr/en/) tomaron el liderazgo del proyecto e hicieron su primer lanzamiento público el 1 de febrero de 2010. A partir de 2017, **Scikit-Learn** está en desarrollo activo.
+
 ## Others
-
-
-
-
     
