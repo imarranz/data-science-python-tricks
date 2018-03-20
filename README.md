@@ -29,7 +29,7 @@ Todo ello enfocando siempre los resultados a _Data Science_.
 ### Otras fuentes
 
 [A quick guide to the basics of the Python data analysis library Pandas, including code samples | DataCamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet)  
-
+[Rewrite your SQL queries in pandas](https://www.codementor.io/irinatruong/how-to-rewrite-your-sql-queries-in-pandas-and-more-hoa9l8z4k)
 
 ## matplotlib
 
