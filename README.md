@@ -64,7 +64,7 @@ NumPy está licenciado bajo la licencia BSD, lo que permite su reutilización co
 
 ## Scikit-Learn
 
-![](https://sthua.edu.sg/wp-content/uploads/2018/03/scikit-learn-logo.png)
+![](http://i0.wp.com/blog.adeel.io/wp-content/uploads/2016/11/scikit-learn.png?fit=566%2C202)
 
 **Scikit-Learn** (anteriormente scikits.learn) es una biblioteca de aprendizaje de máquina de software libre para el lenguaje de programación de Python. **Scikit-Learn** Cuenta con varios algoritmos de clasificación, regresión y agrupación, incluyendo máquinas de vectores de soporte (SVM), _random forest_, k-means y DBSCAN, ... y está diseñado para trabajar conjuntamente con las bibliotecas numéricas y científicas de Python, NumPy y SciPy.
 
