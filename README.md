@@ -72,3 +72,4 @@ El proyecto **Scikit-Learn** comenzó como _scikits.learn_, un proyecto _Google 
 
 ## Others
     
+Otras fuentes y recursos
