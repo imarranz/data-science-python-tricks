@@ -18,7 +18,18 @@ Todo ello enfocando siempre los resultados a _Data Science_.
 
 ![](https://pandas.pydata.org/_static/pandas_logo.png)
 
-Biblioteca que permite el análisis de datos a través de series y dataframes.
+### Python Data Analysis Library 
+
+**pandas** es una biblioteca de código abierto con licencia BSD que proporciona estructuras de datos y herramientas de análisis de datos de alto rendimiento y fácil de usar para el lenguaje de programación Python que permite el análisis de datos a través de series y dataframes.
+
+### Cheat Sheet
+
+[pandas Cheat Sheet from DataCamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
+
+### Otras fuentes
+
+[A quick guide to the basics of the Python data analysis library Pandas, including code samples | DataCamp](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet)  
+
 
 ## matplotlib
 
