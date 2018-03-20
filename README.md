@@ -49,6 +49,19 @@ El módulo _pyplot_ proporciona una interfaz parecida a MATLAB, particularmente 
 
 ![](https://i1.wp.com/www.everythingai.co.in/wp-content/uploads/2018/03/285.jpg?resize=760%2C430)
 
+**NumPy** es una extensión de Python, que le agrega mayor soporte para vectores y matrices, constituyendo una biblioteca de funciones matemáticas de alto nivel para operar con esos vectores o matrices. El ancestro de **NumPy**, Numeric, fue creado originalmente por _Jim Hugunin_ con algunas contribuciones de otros desarrolladores. En 2005, _Travis Oliphant_ creó **NumPy** incorporando características de Numarray en **NumPy** con algunas modificaciones.
+
+**NumPy** es el paquete fundamental para la informática científica con Python. Contiene, entre otras cosas:
+
+  * Un poderoso objeto de matriz N-dimensional
+  * Funciones sofisticadas (difusión)
+  * Herramientas para integrar el código C / C ++ y Fortran
+  * Álgebra lineal útil, transformada de Fourier y capacidades de números aleatorios
+
+Además de sus usos científicos obvios, **NumPy** también se puede usar como un contenedor multidimensional eficiente de datos genéricos. Se pueden definir tipos de datos arbitrarios. Esto permite a **NumPy** integrarse de manera rápida y sin problemas con una amplia variedad de bases de datos.
+
+NumPy está licenciado bajo la licencia BSD, lo que permite su reutilización con pocas restricciones.
+
 ## Scikit-Learn
 
 ![](https://sthua.edu.sg/wp-content/uploads/2018/03/scikit-learn-logo.png)
