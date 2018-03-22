@@ -1,18 +1,33 @@
 # Introducción
 
-Durante muchos años, he desarrollado mi carrera profesional usando R en casi un 90% en todas mis rutinas. En los últimos meses estoy viendo que python es una herramienta complementaria muy potente en casi todas las áreas en las que se desarrolla R, pero con una visión más generalista (python no está enfocado a _Data Science_ pero tiene muy buenas herramientas).
+Durante muchos años, he desarrollado mi carrera profesional usando R en casi un 90% en todas mis rutinas de trabajo. En los últimos meses estoy viendo que python se está convirtiendo en una herramienta complementaria muy potente en casi todas las áreas en las que se desarrolla R, pero con una visión más generalista. Python no está enfocado a _Data Science_ pero tiene desarrolladas muy buenas herramientas.
+
+![XKCD | A webcomic of romance, sarcasm, math, and language](https://imgs.xkcd.com/comics/python.png)
 
 Por esa razón he empezado a investigar y descubrir el mundo de python en _Data Science_ y aquí voy a ir dejando mis notebook de jupyter que voy realizando mientras voy probando diferentes paquetes y funciones.
 
-Quiero centrarme en los siguientes paquetes:
+He empezado con dos libros de referencia en el análisis de datos con python:
+
+  * Python Data Science Handbook, Jake VanderPlas
+  * Python for data Analysis, Wes McKinney
+  
+![Python Data Science Handbook](https://images-na.ssl-images-amazon.com/images/I/51MPp7yuZCL._SX389_BO1,204,203,200_.jpg "Python Data Science Handbook") ![Python for Data Analysis](https://images-na.ssl-images-amazon.com/images/I/515XdK-YtFL._SX379_BO1,204,203,200_.jpg "Python for Data Analysis")
+
+No creo que estemos obligados a decidir entre R y python, ni sea una guerra entre ambos lenguajes:
+
+![R vs Python](http://blog.datacamp.com/wp-content/uploads/2015/05/R-vs-Python-216-2.png "Data Science Wars")
+
+Creo que son dos herramientas muy poderosas y que pueden encajar perfectamente en una rutina de trabajo robusta.
+
+Personalmente quiero centrarme en los siguientes paquetes:
 
   * pandas
+  * NumPy  
   * matplotlib
-  * numpy
   * Scikit-Learn
   * Otros paquetes y funciones interesantes
 
-Todo ello enfocando siempre los resultados a _Data Science_.
+Todo ello enfocando siempre los resultados a _Data Science_. **pandas** y **NumPy** son las herramientas necesarias para trabajar con los datos, **matplotlib** el paquete para representar gráficamente los resultados y por último **Scikit-Learn** para el aprendizaje.
 
 ## pandas
 
@@ -45,7 +60,7 @@ El módulo _pyplot_ proporciona una interfaz parecida a MATLAB, particularmente 
 
 [matplotlib](https://matplotlib.org/)
 
-## numpy
+## NumPy
 
 ![](https://i1.wp.com/www.everythingai.co.in/wp-content/uploads/2018/03/285.jpg?resize=760%2C430)
 
@@ -60,7 +75,7 @@ El módulo _pyplot_ proporciona una interfaz parecida a MATLAB, particularmente 
 
 Además de sus usos científicos obvios, **NumPy** también se puede usar como un contenedor multidimensional eficiente de datos genéricos. Se pueden definir tipos de datos arbitrarios. Esto permite a **NumPy** integrarse de manera rápida y sin problemas con una amplia variedad de bases de datos.
 
-NumPy está licenciado bajo la licencia BSD, lo que permite su reutilización con pocas restricciones.
+**NumPy** está licenciado bajo la licencia BSD, lo que permite su reutilización con pocas restricciones.
 
 ## Scikit-Learn
 
