@@ -17,25 +17,12 @@ data['DATE2'] =  pd.to_datetime(data['DATE'], format='%Y%m%d')
 
 
 data['MONTH'] = data['DATE2'].dt.month
-
-
-
-
 data['MONTH'] = pd.to_datetime(data['DATE'], format = '%Y%m%d').dt.month
 
-
-
-
 print(data.head(5))
-
-print(data.groupby('MONTH')['TMIN', 'TMAX'].mean()
-
-)
+print(data.groupby('MONTH')['TMIN', 'TMAX'].mean())
 
 data.boxplot(column = ['TMIN','TMAX'], by = 'MONTH')
-
-
-
 
 
 aux1 = pd.concat([data[['TMIN']].melt(), data[['MONTH']]], axis = 1)
