@@ -4,30 +4,26 @@ Durante muchos años, he desarrollado mi carrera profesional usando R en casi un
 
 ![XKCD | A webcomic of romance, sarcasm, math, and language](https://imgs.xkcd.com/comics/python.png)
 
-Por esa razón he empezado a investigar y descubrir el mundo de python en _Data Science_ y aquí voy a ir dejando mis notebook de jupyter que voy realizando mientras voy probando diferentes paquetes y funciones.
+Por esa razón he empezado a investigar y descubrir el mundo de python en _Data Science_ y aquí voy a ir dejando mis _notebook_ de jupyter que voy a ir generando mientras pruebo diferentes paquetes y funciones.
 
-He empezado con dos libros de referencia en el análisis de datos con python:
+Aunque tal vez me haya saltado un paso (afianzar mis conocimientos en python), he empezado con dos libros de referencia en el análisis de datos con python:
 
   * Python Data Science Handbook, Jake VanderPlas
   * Python for data Analysis, Wes McKinney
   
 ![Python Data Science Handbook](https://images-na.ssl-images-amazon.com/images/I/51MPp7yuZCL._SX389_BO1,204,203,200_.jpg "Python Data Science Handbook") ![Python for Data Analysis](https://images-na.ssl-images-amazon.com/images/I/515XdK-YtFL._SX379_BO1,204,203,200_.jpg "Python for Data Analysis")
 
-No creo que estemos obligados a decidir entre R y python, ni sea una guerra entre ambos lenguajes:
-
-![R vs Python](http://blog.datacamp.com/wp-content/uploads/2015/05/R-vs-Python-216-2.png "Data Science Wars")
-
-Creo que son dos herramientas muy poderosas y que pueden encajar perfectamente en una rutina de trabajo robusta.
+No creo que estemos obligados a decidir entre R y python, ni sea una guerra entre ambos lenguajes (en cualquier caso sólo beneficiaría a los _Data Scientists_), creo que son dos herramientas muy poderosas y que pueden encajar perfectamente en una rutina de trabajo robusta.
 
 Personalmente quiero centrarme en los siguientes paquetes:
 
   * pandas
   * NumPy  
-  * matplotlib
+  * matplotlib/seaborn
   * Scikit-Learn
   * Otros paquetes y funciones interesantes
 
-Todo ello enfocando siempre los resultados a _Data Science_. **pandas** y **NumPy** son las herramientas necesarias para trabajar con los datos, **matplotlib** el paquete para representar gráficamente los resultados y por último **Scikit-Learn** para el aprendizaje.
+Todo ello enfocando siempre los resultados a _Data Science_. **pandas** y **NumPy** son las herramientas necesarias para trabajar con los datos, **matplotlib** y **seaborn** los paquetes para representar gráficamente los resultados y por último **Scikit-Learn** para el aprendizaje y modelización.
 
 ## pandas
 
@@ -54,7 +50,7 @@ Todo ello enfocando siempre los resultados a _Data Science_. **pandas** y **NumP
 
 ![](https://matplotlib.org/_images/sphx_glr_membrane_thumb.png) ![](https://matplotlib.org/_images/sphx_glr_histogram_thumb.png) ![](https://matplotlib.org/_images/sphx_glr_contour_thumb.png) ![](https://matplotlib.org/_images/sphx_glr_3D_thumb.png)
 
-**matplotlib** intenta hacer que las cosas sean fáciles. Puede generar gráficos, histogramas, espectros de potencia, gráficos de barras, diagramas de errores, diagramas de dispersión, etc., con sólo unas pocas líneas de código. Para ver [algunos ejemplos](https://matplotlib.org/tutorials/introductory/sample_plots.html) y una [galería](https://matplotlib.org/gallery/index.html).
+**matplotlib** intenta hacer que las cosas sean fáciles. Puede generar gráficos, histogramas, espectros de potencia, gráficos de barras, diagramas de errores, diagramas de dispersión, etc., con sólo unas pocas líneas de código. Para ver [algunos ejemplos](https://matplotlib.org/tutorials/introductory/sample_plots.html) y una amplia [galería](https://matplotlib.org/gallery/index.html).
 
 El módulo _pyplot_ proporciona una interfaz parecida a MATLAB, particularmente cuando se combina con IPython. Para el usuario avanzado, tiene un control total de los estilos de línea, las propiedades de fuente, las propiedades de los ejes, etc., a través de una interfaz orientada a objetos o mediante un conjunto de funciones.
 
