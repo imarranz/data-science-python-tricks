@@ -86,7 +86,7 @@ Según se definen ellos mismos, **seaborn** es una biblioteca de visualización 
   * Herramientas para integrar el código C / C ++ y Fortran
   * Álgebra lineal, transformada de Fourier y generación de números aleatorios
 
-Además de sus usos científicos obvios, **NumPy** también se puede usar como un contenedor multidimensional eficiente de datos genéricos. Se pueden definir tipos de datos arbitrarios. Esto permite a **NumPy** integrarse de manera rápida y sin problemas con una amplia variedad de bases de datos.
+Además de sus múltiples usos científicos obvios, **NumPy** también se puede usar como un contenedor multidimensional eficiente de datos genéricos. Se pueden definir tipos de datos arbitrarios. Esto permite a **NumPy** integrarse de manera rápida y sin problemas con una amplia variedad de bases de datos.
 
 **NumPy** está licenciado bajo la licencia BSD, lo que permite su reutilización con pocas restricciones.
 
