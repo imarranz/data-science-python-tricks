@@ -1,6 +1,6 @@
 # Introducción
 
-Durante muchos años, he desarrollado mi carrera profesional usando R en casi un 90% en todas mis rutinas de trabajo. En los últimos meses estoy viendo que Python se está convirtiendo en una herramienta complementaria muy potente en casi todas las áreas en las que se desarrolla R, pero con una visión más generalista. Python no está enfocado a _Data Science_ pero tiene desarrolladas muy buenas herramientas.
+Durante muchos años he desarrollado mi carrera profesional usando R en casi un 90% en todas mis rutinas de trabajo. En los últimos meses estoy viendo que Python se está convirtiendo en una herramienta complementaria muy potente en casi todas las áreas en las que se desarrolla R, pero con una visión más generalista. Python no está enfocado a _Data Science_ pero tiene desarrolladas muy buenas herramientas.
 
 ![XKCD | A webcomic of romance, sarcasm, math, and language](https://imgs.xkcd.com/comics/python.png)
 
