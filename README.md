@@ -15,7 +15,7 @@ Aunque tal vez me haya saltado un paso (afianzar mis conocimientos en Python), h
 
 No creo que estemos obligados a decidir entre R y Python, ni sea una guerra entre ambos lenguajes (en cualquier caso sólo beneficiaría a los _Data Scientists_), creo que son dos herramientas muy poderosas y que pueden encajar perfectamente en una rutina de trabajo robusta.
 
-Personalmente quiero centrarme en los siguientes paquetes:
+Personalmente quiero centrarme en los siguientes paquetes de Python:
 
   * pandas
   * NumPy  
