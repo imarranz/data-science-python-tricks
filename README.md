@@ -26,7 +26,7 @@ Personalmente quiero centrarme en los siguientes paquetes de Python:
 
 Todo ello enfocando siempre los resultados a _Data Science_. **pandas** y **NumPy** son las herramientas necesarias para trabajar con los datos, **matplotlib** y **seaborn** los paquetes para representar gráficamente los resultados y por último **Scikit-Learn** para el aprendizaje y modelización.
 
-hay otros muchos paquetes interesantes en Python, como pueden ser [SciPy](https://www.scipy.org/ "SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering. In particular, these are some of the core packages") y [statsmodels](http://www.statsmodels.org/stable/ "statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models")
+hay otros muchos paquetes interesantes en Python, como pueden ser [SciPy](https://www.scipy.org/ "SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering") y [statsmodels](http://www.statsmodels.org/stable/ "statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models")
 
 ## pandas
 
@@ -96,6 +96,6 @@ Además de sus usos científicos obvios, **NumPy** también se puede usar como u
 
 **Scikit-Learn** (anteriormente scikits.learn) es una biblioteca de aprendizaje de máquina de software libre para el lenguaje de programación de Python. **Scikit-Learn** Cuenta con varios algoritmos de clasificación, regresión y agrupación, incluyendo máquinas de vectores de soporte (SVM), _random forest_, k-means y DBSCAN, ... y está diseñado para trabajar conjuntamente con las bibliotecas numéricas y científicas de Python, NumPy y SciPy.
 
-El proyecto **Scikit-Learn** comenzó como _scikits.learn_, un proyecto _Google Summer of Code_ de David Cournapeau. Su nombre proviene de la idea de "SciKit" (-SciPy Toolkit_), una extensión de terceros desarrollada por separado y distribuida para SciPy. La base de código original fue posteriormente reescrita por otros desarrolladores. En 2010, Fabian Pedregosa, Gael Varoquaux, Alexandre Gramfort y Vincent Michel, todos de [INRIA](https://www.inria.fr/en/) tomaron el liderazgo del proyecto e hicieron su primer lanzamiento público el 1 de febrero de 2010. A partir de 2017, **Scikit-Learn** está en desarrollo activo.
+El proyecto **Scikit-Learn** comenzó como _scikits.learn_, un proyecto _Google Summer of Code_ de David Cournapeau. Su nombre proviene de la idea de "SciKit" (_SciPy Toolkit_), una extensión de terceros desarrollada por separado y distribuida para SciPy. La base de código original fue posteriormente reescrita por otros desarrolladores. En 2010, Fabian Pedregosa, Gael Varoquaux, Alexandre Gramfort y Vincent Michel, todos de [INRIA](https://www.inria.fr/en/) tomaron el liderazgo del proyecto e hicieron su primer lanzamiento público el 1 de febrero de 2010. A partir de 2017, **Scikit-Learn** está en desarrollo activo.
 
 ## Otras fuentes y recursos generales
