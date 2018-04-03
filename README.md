@@ -55,7 +55,7 @@ hay otros muchos paquetes interesantes en Python, como pueden ser [SciPy](https:
 
 **matplotlib** intenta hacer que las cosas sean fáciles. Puede generar gráficos, histogramas, espectros de potencia, gráficos de barras, diagramas de errores, diagramas de dispersión, etc., con sólo unas pocas líneas de código. Para ver [algunos ejemplos](https://matplotlib.org/tutorials/introductory/sample_plots.html) y una amplia [galería](https://matplotlib.org/gallery/index.html).
 
-El módulo _pyplot_ proporciona una interfaz parecida a MATLAB, particularmente cuando se combina con IPython. Para el usuario avanzado, tiene un control total de los estilos de línea, las propiedades de fuente, las propiedades de los ejes, etc., a través de una interfaz orientada a objetos o mediante un conjunto de funciones.
+El módulo _pyplot_ proporciona una interfaz parecida a MATLAB, particularmente cuando se combina con IPython. Para el usuario avanzado, tiene un control total de los estilos de línea, propiedades de las fuentes, las propiedades de los ejes, etc., a través de una interfaz orientada a objetos o mediante un conjunto de funciones.
 
 [matplotlib](https://matplotlib.org/)
 
