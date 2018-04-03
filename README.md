@@ -1,14 +1,15 @@
 # Introducción
 
-Durante muchos años he desarrollado mi carrera profesional usando R en casi un 90% en todas mis rutinas de trabajo. En los últimos meses estoy viendo que Python se está convirtiendo en una herramienta complementaria muy potente en casi todas las áreas en las que se desarrolla R, pero con una visión más generalista. Python no está enfocado al desarrollo de _Data Science_ pero tiene desarrolladas muy buenas herramientas.
+Durante muchos años he desarrollado mi carrera profesional usando R en casi un 90% en todas mis rutinas de trabajo. En los últimos meses estoy viendo que Python se está convirtiendo en una herramienta complementaria muy potente en casi todas las áreas en las que se desarrolla R, pero con una visión más generalista. Python no está enfocado al campo de _Data Science_ pero tiene desarrolladas muy buenas herramientas.
 
 ![XKCD | A webcomic of romance, sarcasm, math, and language](https://imgs.xkcd.com/comics/python.png)
 
-Por esa razón he empezado a investigar y descubrir el mundo de Python en _Data Science_ y aquí voy a ir dejando mis _notebook_ de jupyter que voy a ir generando mientras pruebo diferentes paquetes y funciones.
+Por esa razón he empezado a investigar y descubrir el mundo de Python en _Data Science_ y aquí voy a ir dejando mis scripts de Python y mis _notebook_ de jupyter que voy a ir generando mientras pruebo diferentes paquetes y funciones.
 
 Aunque tal vez me haya saltado un paso (afianzar mis conocimientos en Python), he empezado con dos libros de referencia en el análisis de datos con Python:
 
   * Python Data Science Handbook, Jake VanderPlas [amazon.es](https://www.amazon.es/Python-Data-Science-Handbook-Techniques/dp/1491912057/)
+  
   * Python for data Analysis, Wes McKinney [amazon.es](https://www.amazon.es/Python-Data-Analysis-Wes-McKinney/dp/1491957662)
   
 ![Python Data Science Handbook](https://images-na.ssl-images-amazon.com/images/I/51MPp7yuZCL._SX389_BO1,204,203,200_.jpg "Python Data Science Handbook") ![Python for Data Analysis](https://images-na.ssl-images-amazon.com/images/I/515XdK-YtFL._SX379_BO1,204,203,200_.jpg "Python for Data Analysis")
@@ -24,6 +25,8 @@ Personalmente quiero centrarme en los siguientes paquetes de Python:
   * Otros paquetes y funciones interesantes
 
 Todo ello enfocando siempre los resultados a _Data Science_. **pandas** y **NumPy** son las herramientas necesarias para trabajar con los datos, **matplotlib** y **seaborn** los paquetes para representar gráficamente los resultados y por último **Scikit-Learn** para el aprendizaje y modelización.
+
+hay otros muchos paquetes interesantes en Python, como pueden ser [SciPy](https://www.scipy.org/) y [statsmodel](http://www.statsmodels.org/stable/)
 
 ## pandas
 
