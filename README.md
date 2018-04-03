@@ -1,19 +1,19 @@
 # Introducción
 
-Durante muchos años, he desarrollado mi carrera profesional usando R en casi un 90% en todas mis rutinas de trabajo. En los últimos meses estoy viendo que python se está convirtiendo en una herramienta complementaria muy potente en casi todas las áreas en las que se desarrolla R, pero con una visión más generalista. Python no está enfocado a _Data Science_ pero tiene desarrolladas muy buenas herramientas.
+Durante muchos años, he desarrollado mi carrera profesional usando R en casi un 90% en todas mis rutinas de trabajo. En los últimos meses estoy viendo que Python se está convirtiendo en una herramienta complementaria muy potente en casi todas las áreas en las que se desarrolla R, pero con una visión más generalista. Python no está enfocado a _Data Science_ pero tiene desarrolladas muy buenas herramientas.
 
 ![XKCD | A webcomic of romance, sarcasm, math, and language](https://imgs.xkcd.com/comics/python.png)
 
-Por esa razón he empezado a investigar y descubrir el mundo de python en _Data Science_ y aquí voy a ir dejando mis _notebook_ de jupyter que voy a ir generando mientras pruebo diferentes paquetes y funciones.
+Por esa razón he empezado a investigar y descubrir el mundo de Python en _Data Science_ y aquí voy a ir dejando mis _notebook_ de jupyter que voy a ir generando mientras pruebo diferentes paquetes y funciones.
 
-Aunque tal vez me haya saltado un paso (afianzar mis conocimientos en python), he empezado con dos libros de referencia en el análisis de datos con python:
+Aunque tal vez me haya saltado un paso (afianzar mis conocimientos en Python), he empezado con dos libros de referencia en el análisis de datos con Python:
 
   * Python Data Science Handbook, Jake VanderPlas
   * Python for data Analysis, Wes McKinney
   
 ![Python Data Science Handbook](https://images-na.ssl-images-amazon.com/images/I/51MPp7yuZCL._SX389_BO1,204,203,200_.jpg "Python Data Science Handbook") ![Python for Data Analysis](https://images-na.ssl-images-amazon.com/images/I/515XdK-YtFL._SX379_BO1,204,203,200_.jpg "Python for Data Analysis")
 
-No creo que estemos obligados a decidir entre R y python, ni sea una guerra entre ambos lenguajes (en cualquier caso sólo beneficiaría a los _Data Scientists_), creo que son dos herramientas muy poderosas y que pueden encajar perfectamente en una rutina de trabajo robusta.
+No creo que estemos obligados a decidir entre R y Python, ni sea una guerra entre ambos lenguajes (en cualquier caso sólo beneficiaría a los _Data Scientists_), creo que son dos herramientas muy poderosas y que pueden encajar perfectamente en una rutina de trabajo robusta.
 
 Personalmente quiero centrarme en los siguientes paquetes:
 
@@ -55,6 +55,12 @@ Todo ello enfocando siempre los resultados a _Data Science_. **pandas** y **NumP
 El módulo _pyplot_ proporciona una interfaz parecida a MATLAB, particularmente cuando se combina con IPython. Para el usuario avanzado, tiene un control total de los estilos de línea, las propiedades de fuente, las propiedades de los ejes, etc., a través de una interfaz orientada a objetos o mediante un conjunto de funciones.
 
 [matplotlib](https://matplotlib.org/)
+
+## seaborn
+
+Según se definen ellos mismos, **seaborn** es una biblioteca de visualización de Python basada en **matplotlib**. Proporciona una interfaz de alto nivel para dibujar gráficos estadísticos atractivos.
+
+[seaborn](https://seaborn.pydata.org/index.html)
 
 ## NumPy
 
