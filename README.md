@@ -77,7 +77,7 @@ Según se definen ellos mismos, **seaborn** es una biblioteca de visualización 
 
 ![](https://i1.wp.com/www.everythingai.co.in/wp-content/uploads/2018/03/285.jpg?resize=760%2C430)
 
-**NumPy** es una extensión de Python, que le agrega mayor soporte para vectores y matrices, constituyendo una biblioteca de funciones matemáticas de alto nivel para operar con esos vectores o matrices. El ancestro de **NumPy**, Numeric, fue creado originalmente por _Jim Hugunin_ con algunas contribuciones de otros desarrolladores. En 2005, _Travis Oliphant_ creó **NumPy** incorporando características de Numarray en **NumPy** con algunas modificaciones.
+**NumPy** es una extensión de Python, que le agrega mayor soporte para vectores y matrices, constituyendo una biblioteca de funciones matemáticas de alto nivel para operar con esos vectores o matrices. El ancestro de **NumPy**, _Numeric_, fue creado originalmente por _Jim Hugunin_ con algunas contribuciones de otros desarrolladores. En 2005, _Travis Oliphant_ creó **NumPy** incorporando características de Numarray en **NumPy** con algunas modificaciones.
 
 **NumPy** es el paquete fundamental para la informática científica con Python. Contiene, entre otras cosas:
 
@@ -96,6 +96,6 @@ Además de sus usos científicos obvios, **NumPy** también se puede usar como u
 
 **Scikit-Learn** (anteriormente scikits.learn) es una biblioteca de aprendizaje de máquina de software libre para el lenguaje de programación de Python. **Scikit-Learn** Cuenta con varios algoritmos de clasificación, regresión y agrupación, incluyendo máquinas de vectores de soporte (SVM), _random forest_, k-means y DBSCAN, ... y está diseñado para trabajar conjuntamente con las bibliotecas numéricas y científicas de Python, NumPy y SciPy.
 
-El proyecto **Scikit-Learn** comenzó como _scikits.learn_, un proyecto _Google Summer of Code_ de David Cournapeau. Su nombre proviene de la idea de "SciKit" (_SciPy Toolkit_), una extensión de terceros desarrollada por separado y distribuida para SciPy. La base de código original fue posteriormente reescrita por otros desarrolladores. En 2010, Fabian Pedregosa, Gael Varoquaux, Alexandre Gramfort y Vincent Michel, todos de [INRIA](https://www.inria.fr/en/) tomaron el liderazgo del proyecto e hicieron su primer lanzamiento público el 1 de febrero de 2010. A partir de 2017, **Scikit-Learn** está en desarrollo activo.
+El proyecto **Scikit-Learn** comenzó como _scikits.learn_, un proyecto _Google Summer of Code_ de _David Cournapeau_. Su nombre proviene de la idea de _SciKit_ (_SciPy Toolkit_), una extensión de terceros desarrollada por separado y distribuida para **SciPy**. La base de código original fue posteriormente reescrita por otros desarrolladores. En 2010, _Fabian Pedregosa_, _Gael Varoquaux_, _Alexandre Gramfort_ y _Vincent Michel_, todos de [INRIA](https://www.inria.fr/en/) tomaron el liderazgo del proyecto e hicieron su primer lanzamiento público el 1 de febrero de 2010. A partir de 2017, **Scikit-Learn** está en desarrollo activo.
 
-## Otras fuentes y recursos generales
+## Otros paquetes y funciones interesantes
