@@ -8,8 +8,8 @@ Por esa razón he empezado a investigar y descubrir el mundo de Python en _Data 
 
 Aunque tal vez me haya saltado un paso (afianzar mis conocimientos en Python), he empezado con dos libros de referencia en el análisis de datos con Python:
 
-  * Python Data Science Handbook, Jake VanderPlas
-  * Python for data Analysis, Wes McKinney
+  * Python Data Science Handbook, Jake VanderPlas [amazon.es](https://www.amazon.es/Python-Data-Science-Handbook-Techniques/dp/1491912057/)
+  * Python for data Analysis, Wes McKinney [amazon.es](https://www.amazon.es/Python-Data-Analysis-Wes-McKinney/dp/1491957662)
   
 ![Python Data Science Handbook](https://images-na.ssl-images-amazon.com/images/I/51MPp7yuZCL._SX389_BO1,204,203,200_.jpg "Python Data Science Handbook") ![Python for Data Analysis](https://images-na.ssl-images-amazon.com/images/I/515XdK-YtFL._SX379_BO1,204,203,200_.jpg "Python for Data Analysis")
 
