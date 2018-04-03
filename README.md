@@ -56,11 +56,19 @@ El módulo _pyplot_ proporciona una interfaz parecida a MATLAB, particularmente 
 
 [matplotlib](https://matplotlib.org/)
 
+### Cheat Sheet
+
+[matplotlib Cheat Sheet from DataCamp](https://cdn-images-1.medium.com/max/2000/1*ykxp7OpgBXbRRHgjzSkeCA.png)
+
 ## seaborn
 
 Según se definen ellos mismos, **seaborn** es una biblioteca de visualización de Python basada en **matplotlib**. Proporciona una interfaz de alto nivel para dibujar gráficos estadísticos atractivos.
 
 [seaborn](https://seaborn.pydata.org/index.html)
+
+### Otras fuentes
+
+[Galería de ejemplos realizados con seaborn](https://seaborn.pydata.org/examples/index.html)
 
 ## NumPy
 
