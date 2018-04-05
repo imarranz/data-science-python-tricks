@@ -22,7 +22,7 @@ Personalmente quiero centrarme en los siguientes paquetes de Python:
   * NumPy  
   * matplotlib/seaborn
   * Scikit-Learn
-  * Otros paquetes y funciones interesantes
+  * Otros paquetes y funciones interesantes con [SciPy](https://www.scipy.org/), [StatsModels](http://www.statsmodels.org/stable/), ...
 
 Todo ello enfocando siempre los resultados a _Data Science_. **pandas** y **NumPy** son las herramientas necesarias para trabajar con los datos, **matplotlib** y **seaborn** los paquetes para representar gráficamente los resultados y por último **Scikit-Learn** para el aprendizaje y modelización.
 
