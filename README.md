@@ -14,7 +14,7 @@ Aunque tal vez me haya saltado un paso (afianzar mis conocimientos en Python), h
   
 ![Python Data Science Handbook](https://images-na.ssl-images-amazon.com/images/I/51MPp7yuZCL._SX389_BO1,204,203,200_.jpg "Python Data Science Handbook") ![Python for Data Analysis](https://images-na.ssl-images-amazon.com/images/I/515XdK-YtFL._SX379_BO1,204,203,200_.jpg "Python for Data Analysis")
 
-No creo que estemos obligados a decidir entre R y Python, ni sea una guerra entre ambos lenguajes (en cualquier caso sólo beneficiaría a los _Data Scientists_), creo que son dos herramientas muy poderosas y que pueden encajar perfectamente en una rutina de trabajo robusta.
+No creo que estemos obligados a decidir entre R y Python, creo que son dos herramientas muy poderosas y que pueden encajar perfectamente en una rutina de trabajo robusta. En DataCamp hacen una buena comparación de los _pros_ y _contras_ de cada lenguaje, [Choosing R or Python for Data Analysis? An Infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis). 
 
 Personalmente quiero centrarme en los siguientes paquetes de Python:
 
