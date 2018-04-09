@@ -28,6 +28,8 @@ Todo ello enfocando siempre los resultados a _Data Science_. **pandas** y **NumP
 
 hay otros muchos paquetes interesantes en Python, como pueden ser [SciPy](https://www.scipy.org/ "SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering") y [statsmodels](http://www.statsmodels.org/stable/ "statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models")
 
+También es interesante el proyecto [anaconda](https://www.anaconda.com/) que engloba todo un universo de software y paquetes en torno a Python y R. Gestiona los paquetes y las diferentes versiones así como GUIs para Python, [Spyder](https://spyder-ide.github.io/), y R, [RStudio](https://www.rstudio.com/).
+
 ## pandas
 
 ![](https://pandas.pydata.org/_static/pandas_logo.png)
