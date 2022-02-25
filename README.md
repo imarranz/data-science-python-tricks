@@ -30,9 +30,34 @@ hay otros muchos paquetes interesantes en Python, como pueden ser [SciPy](https:
 
 También es interesante el proyecto [anaconda](https://www.anaconda.com/) que engloba todo un universo de software y paquetes en torno a Python y R. Gestiona los paquetes y las diferentes versiones así como GUIs para Python, [Spyder](https://spyder-ide.github.io/), y R, [RStudio](https://www.rstudio.com/).
 
-## pandas
+## Pandas
 
 ![](https://pandas.pydata.org/_static/pandas_logo.png)
+
+Si estás interesado en trabajar con Pandas te sugiero leer los siguientes trabajos con Pandas y sus diferentes características y posibilidades (en inglés).
+
+[Introduction to the Pandas](https://ai.plainenglish.io/introduction-to-the-pandas-library-a3a557c8d094?source=your_stories_page-------------------------------------)  
+[Indexing-Selection-Filtering in Pandas](https://ai.plainenglish.io/indexing-selection-filtering-in-pandas-library-20d3fe4a6d71?source=your_stories_page-------------------------------------)  
+[Important Methods in Pandas](https://ai.plainenglish.io/important-methods-in-pandas-2d4c774fcac9?source=your_stories_page-------------------------------------)  
+[Arithmetic Operations in Pandas](https://ai.plainenglish.io/arithmetic-operations-in-pandas-7ef32226e41c?source=your_stories_page-------------------------------------)  
+[Sorting and Ranking in Pandas](https://ai.plainenglish.io/sorting-and-ranking-in-pandas-701f99aa918e?source=your_stories_page-------------------------------------)  
+[Summarizing And Computing Descriptive Statistics in Pandas](https://medium.com/nerd-for-tech/summarizing-and-computing-descriptive-statistics-in-pandas-7320a1fec371?source=your_stories_page-------------------------------------)  
+[Reading and Writing Data in Pandas](https://ai.plainenglish.io/reading-and-writing-in-pandas-2d83dc538aff?source=your_stories_page-------------------------------------)  
+[How to Fix Missing Data in Pandas](https://ai.plainenglish.io/missing-data-in-pandas-d41cbcec04e0?source=your_stories_page-------------------------------------)  
+[Data Transformation in Pandas](https://ai.plainenglish.io/data-transformation-in-pandas-29b2b3c61b34?source=your_stories_page-------------------------------------)  
+[Hierarchical Indexing in Pandas](https://levelup.gitconnected.com/hierarchical-indexing-in-pandas-94ff198b7f35?source=your_stories_page-------------------------------------)  
+[Combining And Merging Datasets in Pandas](https://tirendazacademy.medium.com/combining-and-merging-datasets-in-pandas-8e71e11b76fa?source=your_stories_page-------------------------------------)  
+[Reshaping And Pivoting in Pandas](https://tirendazacademy.medium.com/reshaping-and-pivoting-in-pandas-a41678e72d68?source=your_stories_page-------------------------------------)  
+[Groupby in Pandas](https://medium.com/star-gazers/groupby-in-pandas-5df348e293f8?source=your_stories_page-------------------------------------)   
+[Working With Groupby in Pandas](https://levelup.gitconnected.com/working-with-groupby-in-pandas-7e7823414537?source=your_stories_page-------------------------------------)  
+[Pivot Tables in Pandas](https://levelup.gitconnected.com/pivot-tables-in-pandas-7b672e6d8f47?source=your_stories_page-------------------------------------)  
+[Categorical Data in Pandas](https://tirendazacademy.medium.com/categorical-data-in-pandas-9eaaff71e6f3?source=your_stories_page-------------------------------------)  
+[Working With Text Data in Pandas](https://tirendazacademy.medium.com/working-with-text-data-in-pandas-f78aa368e1a?source=your_stories_page-------------------------------------)  
+[Practical Data Analysis with Pandas](https://levelup.gitconnected.com/practical-data-analysis-with-pandas-c40fbd2955fa?source=your_stories_page-------------------------------------)  
+[Multiple Selecting-Filtering in Pandas](https://tirendazacademy.medium.com/multiple-selecting-filtering-in-pandas-68d710087a22?source=your_stories_page-------------------------------------)  
+
+
+
 
 ### Python Data Analysis Library 
 
