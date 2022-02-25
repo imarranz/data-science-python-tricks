@@ -1,6 +1,6 @@
 # Introducción
 
-Durante muchos años he desarrollado mi carrera profesional usando R en casi un 90% en todas mis rutinas de trabajo. En los últimos meses estoy viendo que Python se está convirtiendo en una herramienta complementaria muy potente en casi todas las áreas en las que se desarrolla R, pero con una visión más generalista. Python no está enfocado al campo de _Data Science_ pero tiene desarrolladas muy buenas herramientas.
+Durante muchos años he desarrollado mi carrera profesional usando R en casi un 90% en todas mis rutinas de trabajo. En los últimos años estoy viendo que Python se está convirtiendo en una herramienta complementaria muy potente en casi todas las áreas en las que se desarrolla R, pero con una visión más generalista. Python no está enfocado al campo de _Data Science_ pero tiene desarrolladas muy buenas herramientas.
 
 ![XKCD | A webcomic of romance, sarcasm, math, and language](https://imgs.xkcd.com/comics/python.png)
 
@@ -24,7 +24,7 @@ Personalmente quiero centrarme en los siguientes paquetes de Python:
   * Scikit-Learn
   * Otros paquetes y funciones interesantes con [SciPy](https://www.scipy.org/), [StatsModels](http://www.statsmodels.org/stable/), ...
 
-Todo ello enfocando siempre los resultados a _Data Science_. **pandas** y **NumPy** son las herramientas necesarias para trabajar con los datos, **matplotlib** y **seaborn** los paquetes para representar gráficamente los resultados y por último **Scikit-Learn** para el aprendizaje y modelización.
+Todo ello enfocando siempre los resultados a _Data Science_. **Pandas** y **NumPy** son las herramientas necesarias para trabajar con los datos, **matplotlib** y **seaborn** los paquetes para representar gráficamente los resultados y por último **Scikit-Learn** para el aprendizaje y modelización.
 
 hay otros muchos paquetes interesantes en Python, como pueden ser [SciPy](https://www.scipy.org/ "SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering") y [statsmodels](http://www.statsmodels.org/stable/ "statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models")
 
