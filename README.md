@@ -32,7 +32,7 @@ También es interesante el proyecto [anaconda](https://www.anaconda.com/) que en
 
 ## Pandas
 
-![](https://pandas.pydata.org/_static/pandas_logo.png)
+![](https://github.com/pandas-dev/pandas/blob/master/web/pandas/static/img/pandas.svg)
 
 Si estás interesado en trabajar con Pandas te sugiero leer los siguientes trabajos con Pandas y sus diferentes características y posibilidades (en inglés).
 
