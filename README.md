@@ -56,9 +56,6 @@ Si estás interesado en trabajar con Pandas te sugiero leer los siguientes traba
 [Practical Data Analysis with Pandas](https://levelup.gitconnected.com/practical-data-analysis-with-pandas-c40fbd2955fa?source=your_stories_page-------------------------------------)  
 [Multiple Selecting-Filtering in Pandas](https://tirendazacademy.medium.com/multiple-selecting-filtering-in-pandas-68d710087a22?source=your_stories_page-------------------------------------)  
 
-
-
-
 ### Python Data Analysis Library 
 
 **pandas** es una biblioteca de código abierto con licencia BSD que proporciona estructuras de datos y herramientas de análisis de datos de alto rendimiento y fácil de usar para el lenguaje de programación Python que permite el análisis de datos a través de series y dataframes.
